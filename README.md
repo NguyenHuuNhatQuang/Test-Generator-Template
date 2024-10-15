@@ -1,4 +1,4 @@
-# TLEOJ-TestGeneratorTemplate
+# Test-Generator-Template
 
 Template sinh test theo format Themis, phát triển bởi Câu lạc bộ TLE.
 
