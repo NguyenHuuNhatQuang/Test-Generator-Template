@@ -45,7 +45,7 @@ string bignum(long long l) // sinh mot so lon gom l chu so
     assert (l > 0);
 
     string s = " ";
-    s[0] = char (Rand (1, 0) + '0');
+    s[0] = char (Rand (1, 9) + '0');
     for(int i = 1; i <= l; i ++)
     {
         s += " ";
